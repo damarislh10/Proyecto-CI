@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f4f4f9;
+}
+#tablero {
+    display: inline-block;
+    margin-top: 20px;
+}
+.fila {
+    display: flex;
+    justify-content: center;
+}
+button {
+    width: 60px;
+    height: 60px;
+    margin: 4px;
+    font-size: 18px;
+}
